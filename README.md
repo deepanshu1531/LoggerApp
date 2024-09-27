@@ -15,7 +15,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/GetLogs.git
+  https://github.com/deepanshu1531/LoggerApp.git
 
 ## Sample Output
 Top 10 INFO Logs:
