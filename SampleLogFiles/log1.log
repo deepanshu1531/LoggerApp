@@ -1,0 +1,1000 @@
+06102023-05:20 ERROR File josmith@test.com not found in directory adminaccount
+03052023-00:01 INFO Failed to connect to database admin@company.com at mybestvalue
+09052023-23:22 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 287 Helper.parseDateFromString(line:31) Helper.parseDateFromString(line:23)
+29122023-10:55 INFO File josmith@test.com not found in directory jamesome
+10082023-08:57 ERROR Error writing to file janedoe@example.com in directory mybestvalue
+19032023-03:16 WARN User josmith@test.com attempted unauthorized access
+15072023-04:48 INFO Timeout occurred while waiting for response from josmith@test.com
+04012023-23:19 ERROR Disk space running low on janedoe@example.com
+27012023-02:44 INFO Disk space running low on billbrown@test.com
+03072023-06:28 WARN Timeout occurred while waiting for response from janedoe@example.com
+11092023-04:22 ERROR User billbrown@test.com attempted unauthorized access
+29112023-19:42 INFO Disk space running low on admin@company.com
+19012023-00:55 WARN Disk space running low on billbrown@test.com
+13082023-23:48 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 388 Helper.parseDateFromString(line:44) FileHandler.saveData(line:63)
+07092023-00:25 INFO Exception thrown: Unknown dateformat 'DDDDD' at line: 280 FileHandler.saveData(line:62) Main.outputDate(line:82)
+19062023-23:21 INFO Cannot find user janedoe@example.com on account mybestvalue
+06092023-05:54 WARN User admin@company.com attempted unauthorized access
+16042023-18:51 ERROR Failed to connect to database josmith@test.com at jamesome
+12032023-09:27 INFO Failed to connect to database josmith@test.com at mybestvalue
+26012023-20:46 ERROR Error writing to file admin@company.com in directory jamesome
+20122023-02:06 ERROR Error writing to file billbrown@test.com in directory jamesome
+31102023-10:23 WARN Error writing to file admin@company.com in directory mybestvalue
+22032023-23:05 ERROR Disk space running low on billbrown@test.com
+28062023-21:37 INFO File admin@company.com not found in directory jamesome
+29012023-00:11 ERROR Cannot find user admin@company.com on account highpriority
+16092023-05:58 WARN Cannot find user janedoe@example.com on account adminaccount
+29072023-19:13 WARN Disk space running low on josmith@test.com
+20022023-11:51 ERROR Timeout occurred while waiting for response from admin@company.com
+20082023-16:02 ERROR Timeout occurred while waiting for response from billbrown@test.com
+04082023-20:09 ERROR User janedoe@example.com attempted unauthorized access
+10122023-01:26 WARN Failed to connect to database admin@company.com at adminaccount
+22012023-18:53 WARN Network packet loss detected between janedoe@example.com and jamesome
+26122023-17:01 INFO File josmith@test.com not found in directory mybestvalue
+01112023-20:12 WARN Network packet loss detected between admin@company.com and jamesome
+23112023-16:50 ERROR Disk space running low on admin@company.com
+24122023-09:13 WARN Network packet loss detected between admin@company.com and jamesome
+16102023-04:18 ERROR Cannot find user janedoe@example.com on account mybestvalue
+02092023-03:54 INFO File josmith@test.com not found in directory mybestvalue
+11062023-09:01 INFO Failed to connect to database billbrown@test.com at adminaccount
+16052023-16:08 WARN User janedoe@example.com attempted unauthorized access
+01062023-06:46 ERROR Cannot find user josmith@test.com on account highpriority
+08032023-21:24 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 460 FileHandler.saveData(line:86) FileHandler.saveData(line:44)
+02112023-13:20 INFO Network packet loss detected between josmith@test.com and highpriority
+18092023-17:29 INFO Memory allocation error at billbrown@test.com highpriority(line:326)
+21052023-21:09 ERROR Cannot find user josmith@test.com on account jamesome
+06122023-15:19 ERROR Cannot find user billbrown@test.com on account jamesome
+06102023-08:34 INFO Disk space running low on billbrown@test.com
+23112023-16:14 WARN Failed to connect to database janedoe@example.com at highpriority
+30092023-23:17 INFO Memory allocation error at admin@company.com mybestvalue(line:102)
+10012023-03:07 WARN User janedoe@example.com attempted unauthorized access
+05062023-11:36 INFO Network packet loss detected between admin@company.com and adminaccount
+07042023-02:20 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 345 FileHandler.saveData(line:76) FileHandler.saveData(line:12)
+28022023-12:52 ERROR Cannot find user josmith@test.com on account mybestvalue
+31052023-04:18 WARN Failed to connect to database josmith@test.com at jamesome
+07022023-21:38 ERROR Disk space running low on janedoe@example.com
+27102023-15:15 ERROR Network packet loss detected between billbrown@test.com and adminaccount
+19042023-04:40 INFO Error writing to file josmith@test.com in directory adminaccount
+20052023-15:12 WARN Cannot find user janedoe@example.com on account jamesome
+05022023-23:18 WARN Error writing to file admin@company.com in directory adminaccount
+09072023-14:56 INFO Memory allocation error at admin@company.com mybestvalue(line:30)
+22122023-14:31 WARN Cannot find user admin@company.com on account jamesome
+19032023-15:07 ERROR Exception thrown: Unknown dateformat 'MM/YYYY' at line: 72 Main.outputDate(line:41) Helper.parseDateFromString(line:60)
+03122023-00:26 WARN Disk space running low on josmith@test.com
+08092023-16:02 WARN Disk space running low on admin@company.com
+03022023-16:52 WARN User admin@company.com attempted unauthorized access
+27022023-23:11 WARN Network packet loss detected between janedoe@example.com and mybestvalue
+26072023-17:45 WARN Error writing to file janedoe@example.com in directory highpriority
+12032023-15:37 ERROR Error writing to file admin@company.com in directory highpriority
+23012023-21:51 ERROR Error writing to file admin@company.com in directory highpriority
+12062023-06:18 ERROR Timeout occurred while waiting for response from josmith@test.com
+05052023-19:02 WARN Disk space running low on billbrown@test.com
+19012023-22:33 ERROR Error writing to file janedoe@example.com in directory highpriority
+07022023-17:22 ERROR Failed to connect to database admin@company.com at highpriority
+06102023-17:15 ERROR Timeout occurred while waiting for response from admin@company.com
+27012023-02:41 ERROR Timeout occurred while waiting for response from josmith@test.com
+11012023-03:32 INFO Timeout occurred while waiting for response from billbrown@test.com
+12052023-01:53 WARN Network packet loss detected between josmith@test.com and highpriority
+12082023-20:34 WARN Memory allocation error at billbrown@test.com highpriority(line:398)
+09102023-23:36 WARN File janedoe@example.com not found in directory adminaccount
+04052023-21:32 WARN User janedoe@example.com attempted unauthorized access
+17042023-05:21 ERROR Timeout occurred while waiting for response from billbrown@test.com
+27072023-11:39 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 246 Helper.parseDateFromString(line:48) Helper.parseDateFromString(line:37)
+14012023-16:30 ERROR File admin@company.com not found in directory mybestvalue
+04092023-17:46 WARN Timeout occurred while waiting for response from josmith@test.com
+20072023-13:31 INFO Network packet loss detected between admin@company.com and jamesome
+23042023-06:52 INFO Timeout occurred while waiting for response from admin@company.com
+27052023-09:56 ERROR Timeout occurred while waiting for response from josmith@test.com
+02122023-04:04 INFO Timeout occurred while waiting for response from josmith@test.com
+25092023-05:21 WARN Disk space running low on josmith@test.com
+03042023-20:46 WARN User admin@company.com attempted unauthorized access
+11052023-10:57 ERROR File billbrown@test.com not found in directory highpriority
+20042023-17:46 INFO Error writing to file janedoe@example.com in directory mybestvalue
+28112023-14:19 INFO Error writing to file josmith@test.com in directory jamesome
+03042023-05:40 WARN Cannot find user janedoe@example.com on account mybestvalue
+17032023-23:04 ERROR Memory allocation error at billbrown@test.com highpriority(line:332)
+08102023-01:00 ERROR File josmith@test.com not found in directory mybestvalue
+01032023-05:20 WARN Timeout occurred while waiting for response from billbrown@test.com
+18012023-04:31 WARN Timeout occurred while waiting for response from janedoe@example.com
+08082023-14:44 WARN Timeout occurred while waiting for response from billbrown@test.com
+02042023-01:18 ERROR Network packet loss detected between billbrown@test.com and adminaccount
+17122023-09:31 INFO Timeout occurred while waiting for response from josmith@test.com
+22092023-22:32 WARN Failed to connect to database admin@company.com at highpriority
+21122023-04:44 INFO Error writing to file janedoe@example.com in directory adminaccount
+28052023-01:50 ERROR File admin@company.com not found in directory mybestvalue
+12032023-08:49 ERROR User billbrown@test.com attempted unauthorized access
+16052023-06:50 ERROR User janedoe@example.com attempted unauthorized access
+11122023-12:56 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 475 Main.outputDate(line:89) FileHandler.saveData(line:6)
+27072023-05:13 WARN File admin@company.com not found in directory mybestvalue
+04122023-10:22 WARN User josmith@test.com attempted unauthorized access
+10052023-06:54 INFO Timeout occurred while waiting for response from janedoe@example.com
+13102023-07:12 WARN Memory allocation error at janedoe@example.com adminaccount(line:244)
+07092023-21:07 ERROR Exception thrown: Unknown dateformat 'YDGI' at line: 35 Main.outputDate(line:76) Helper.parseDateFromString(line:54)
+11012023-22:42 WARN User josmith@test.com attempted unauthorized access
+09102023-06:50 INFO Network packet loss detected between janedoe@example.com and jamesome
+29042023-13:36 WARN Cannot find user admin@company.com on account adminaccount
+17112023-13:45 WARN Failed to connect to database josmith@test.com at highpriority
+30102023-04:15 WARN Failed to connect to database janedoe@example.com at adminaccount
+18052023-06:13 WARN Cannot find user janedoe@example.com on account mybestvalue
+06122023-20:02 WARN Timeout occurred while waiting for response from janedoe@example.com
+20092023-22:23 INFO User billbrown@test.com attempted unauthorized access
+09072023-12:12 WARN Timeout occurred while waiting for response from billbrown@test.com
+02022023-02:49 INFO Failed to connect to database janedoe@example.com at highpriority
+11062023-15:43 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 344 Helper.parseDateFromString(line:20) FileHandler.saveData(line:8)
+07012023-11:22 WARN Disk space running low on admin@company.com
+10082023-05:12 INFO Cannot find user josmith@test.com on account highpriority
+06022023-01:25 ERROR File janedoe@example.com not found in directory highpriority
+27012023-17:00 WARN Failed to connect to database josmith@test.com at adminaccount
+15082023-22:13 INFO Error writing to file josmith@test.com in directory adminaccount
+26012023-19:26 ERROR Cannot find user billbrown@test.com on account mybestvalue
+22082023-23:16 ERROR Exception thrown: Unknown dateformat 'DDDDD' at line: 450 Main.outputDate(line:6) FileHandler.saveData(line:56)
+28032023-06:04 WARN Memory allocation error at admin@company.com highpriority(line:135)
+02012023-18:59 INFO File janedoe@example.com not found in directory jamesome
+12042023-02:19 ERROR Memory allocation error at admin@company.com highpriority(line:346)
+14072023-22:18 ERROR File josmith@test.com not found in directory jamesome
+28072023-03:36 WARN Timeout occurred while waiting for response from josmith@test.com
+15092023-09:13 ERROR Memory allocation error at josmith@test.com mybestvalue(line:219)
+06102023-09:11 ERROR Cannot find user janedoe@example.com on account mybestvalue
+09022023-02:48 WARN Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 344 FileHandler.saveData(line:86) FileHandler.saveData(line:34)
+28092023-15:02 ERROR Error writing to file janedoe@example.com in directory adminaccount
+23022023-22:28 INFO File josmith@test.com not found in directory highpriority
+06062023-08:46 INFO File janedoe@example.com not found in directory adminaccount
+26112023-17:16 INFO Network packet loss detected between janedoe@example.com and highpriority
+28062023-17:45 INFO Disk space running low on josmith@test.com
+05072023-23:20 ERROR File janedoe@example.com not found in directory mybestvalue
+12042023-14:52 ERROR Disk space running low on billbrown@test.com
+03062023-01:12 WARN Cannot find user admin@company.com on account mybestvalue
+19032023-14:35 INFO Timeout occurred while waiting for response from janedoe@example.com
+17082023-05:48 WARN Disk space running low on josmith@test.com
+09062023-08:48 WARN Cannot find user josmith@test.com on account adminaccount
+21122023-01:58 WARN Network packet loss detected between billbrown@test.com and adminaccount
+21062023-12:41 INFO Disk space running low on josmith@test.com
+02082023-06:37 ERROR File josmith@test.com not found in directory adminaccount
+12042023-15:27 WARN Network packet loss detected between billbrown@test.com and mybestvalue
+17072023-03:15 INFO Error writing to file billbrown@test.com in directory jamesome
+08022023-02:19 INFO Disk space running low on admin@company.com
+11052023-03:37 ERROR Memory allocation error at janedoe@example.com adminaccount(line:12)
+01072023-06:31 WARN User janedoe@example.com attempted unauthorized access
+30032023-04:59 INFO Error writing to file janedoe@example.com in directory jamesome
+01112023-16:37 INFO User janedoe@example.com attempted unauthorized access
+18032023-09:58 ERROR Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 366 FileHandler.saveData(line:100) Main.outputDate(line:54)
+01062023-04:48 ERROR Memory allocation error at janedoe@example.com adminaccount(line:301)
+22032023-08:59 INFO Network packet loss detected between janedoe@example.com and highpriority
+24072023-21:42 INFO User josmith@test.com attempted unauthorized access
+11072023-21:38 ERROR Cannot find user admin@company.com on account mybestvalue
+27092023-12:17 INFO Exception thrown: Unknown dateformat 'MM/YYYY' at line: 326 Helper.parseDateFromString(line:59) Helper.parseDateFromString(line:71)
+03082023-03:02 INFO Timeout occurred while waiting for response from billbrown@test.com
+02102023-20:03 INFO Disk space running low on billbrown@test.com
+28102023-03:03 WARN Network packet loss detected between admin@company.com and highpriority
+24122023-18:16 WARN Cannot find user billbrown@test.com on account adminaccount
+03112023-15:07 ERROR File admin@company.com not found in directory jamesome
+24102023-16:20 WARN Network packet loss detected between josmith@test.com and highpriority
+06032023-06:01 INFO Disk space running low on billbrown@test.com
+06102023-19:42 WARN Network packet loss detected between billbrown@test.com and mybestvalue
+30012023-17:42 INFO User josmith@test.com attempted unauthorized access
+12082023-17:48 ERROR Cannot find user josmith@test.com on account adminaccount
+15032023-20:11 INFO Error writing to file admin@company.com in directory highpriority
+11042023-18:52 WARN Timeout occurred while waiting for response from billbrown@test.com
+09112023-13:05 ERROR Cannot find user josmith@test.com on account jamesome
+10032023-02:50 ERROR Cannot find user billbrown@test.com on account highpriority
+23022023-17:32 ERROR Disk space running low on janedoe@example.com
+20042023-12:32 ERROR Failed to connect to database josmith@test.com at jamesome
+31082023-08:35 WARN Memory allocation error at billbrown@test.com adminaccount(line:250)
+14072023-16:00 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 149 Main.outputDate(line:94) Main.outputDate(line:45)
+14072023-02:36 INFO Disk space running low on josmith@test.com
+11122023-21:35 INFO Network packet loss detected between josmith@test.com and jamesome
+15062023-03:21 WARN User josmith@test.com attempted unauthorized access
+12022023-21:52 WARN Timeout occurred while waiting for response from josmith@test.com
+22062023-16:10 ERROR Exception thrown: Unknown dateformat 'YDGI' at line: 114 FileHandler.saveData(line:20) Main.outputDate(line:21)
+05102023-12:27 WARN File admin@company.com not found in directory highpriority
+01122023-08:26 INFO Disk space running low on billbrown@test.com
+23112023-23:27 INFO File janedoe@example.com not found in directory adminaccount
+12092023-04:48 ERROR User josmith@test.com attempted unauthorized access
+11092023-20:32 WARN User janedoe@example.com attempted unauthorized access
+09092023-16:22 ERROR Cannot find user admin@company.com on account highpriority
+13052023-08:07 INFO Network packet loss detected between josmith@test.com and adminaccount
+01092023-16:17 ERROR User janedoe@example.com attempted unauthorized access
+29052023-07:05 WARN User admin@company.com attempted unauthorized access
+07012023-04:41 INFO Network packet loss detected between josmith@test.com and highpriority
+27102023-10:10 ERROR Disk space running low on admin@company.com
+17012023-18:14 WARN File billbrown@test.com not found in directory adminaccount
+27112023-17:32 ERROR Disk space running low on janedoe@example.com
+13092023-14:50 ERROR File josmith@test.com not found in directory mybestvalue
+28082023-01:12 ERROR Cannot find user billbrown@test.com on account mybestvalue
+14082023-21:33 ERROR Memory allocation error at janedoe@example.com adminaccount(line:453)
+11102023-17:40 INFO Network packet loss detected between josmith@test.com and jamesome
+06102023-09:18 INFO Cannot find user billbrown@test.com on account mybestvalue
+25042023-09:31 ERROR Exception thrown: Unknown dateformat 'YDGI' at line: 404 Main.outputDate(line:44) Helper.parseDateFromString(line:43)
+15092023-02:45 WARN Disk space running low on janedoe@example.com
+29092023-13:45 INFO File admin@company.com not found in directory jamesome
+27082023-23:43 WARN File admin@company.com not found in directory highpriority
+18032023-23:37 ERROR Failed to connect to database admin@company.com at adminaccount
+26042023-01:45 WARN File josmith@test.com not found in directory jamesome
+27072023-23:25 ERROR Disk space running low on josmith@test.com
+29072023-07:37 ERROR Cannot find user admin@company.com on account adminaccount
+22122023-17:51 WARN Cannot find user billbrown@test.com on account jamesome
+19052023-09:23 INFO Memory allocation error at admin@company.com adminaccount(line:254)
+13072023-23:09 WARN Failed to connect to database janedoe@example.com at highpriority
+27072023-12:09 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 188 FileHandler.saveData(line:99) Main.outputDate(line:83)
+10012023-07:18 WARN Cannot find user janedoe@example.com on account adminaccount
+21012023-19:45 ERROR Failed to connect to database janedoe@example.com at adminaccount
+01082023-23:15 ERROR Network packet loss detected between admin@company.com and jamesome
+22012023-05:38 ERROR Error writing to file admin@company.com in directory jamesome
+19052023-12:56 ERROR Failed to connect to database billbrown@test.com at jamesome
+20062023-22:36 INFO Network packet loss detected between admin@company.com and jamesome
+14102023-13:43 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 370 Main.outputDate(line:89) Helper.parseDateFromString(line:24)
+08052023-23:40 WARN Timeout occurred while waiting for response from josmith@test.com
+19042023-00:39 ERROR Network packet loss detected between janedoe@example.com and adminaccount
+22042023-00:18 WARN File admin@company.com not found in directory adminaccount
+07052023-08:36 INFO Cannot find user janedoe@example.com on account mybestvalue
+21022023-21:46 ERROR Failed to connect to database janedoe@example.com at jamesome
+14112023-22:24 INFO User josmith@test.com attempted unauthorized access
+24042023-18:54 WARN Memory allocation error at josmith@test.com mybestvalue(line:381)
+02112023-08:32 WARN File josmith@test.com not found in directory highpriority
+28052023-21:24 ERROR File admin@company.com not found in directory jamesome
+05012023-22:39 ERROR File janedoe@example.com not found in directory mybestvalue
+29062023-09:51 WARN Network packet loss detected between josmith@test.com and jamesome
+24022023-12:23 WARN Network packet loss detected between admin@company.com and highpriority
+21092023-22:59 ERROR Disk space running low on billbrown@test.com
+13122023-19:52 WARN User admin@company.com attempted unauthorized access
+26092023-00:52 ERROR Timeout occurred while waiting for response from janedoe@example.com
+13042023-16:46 INFO File josmith@test.com not found in directory jamesome
+15092023-12:27 INFO Network packet loss detected between admin@company.com and adminaccount
+06072023-02:31 INFO Exception thrown: Unknown dateformat 'DDDDD' at line: 276 Helper.parseDateFromString(line:36) FileHandler.saveData(line:49)
+04102023-14:59 WARN File billbrown@test.com not found in directory mybestvalue
+18022023-22:16 INFO File janedoe@example.com not found in directory highpriority
+01112023-17:19 WARN Timeout occurred while waiting for response from billbrown@test.com
+24052023-23:23 ERROR User janedoe@example.com attempted unauthorized access
+01092023-12:10 INFO Failed to connect to database admin@company.com at jamesome
+24122023-05:39 INFO File janedoe@example.com not found in directory adminaccount
+16042023-15:11 WARN Network packet loss detected between admin@company.com and adminaccount
+25042023-11:05 ERROR Disk space running low on josmith@test.com
+10012023-20:48 WARN Disk space running low on josmith@test.com
+28022023-10:46 WARN Network packet loss detected between janedoe@example.com and adminaccount
+19092023-04:18 WARN Timeout occurred while waiting for response from josmith@test.com
+23042023-13:50 WARN Disk space running low on janedoe@example.com
+12032023-04:43 INFO Memory allocation error at admin@company.com highpriority(line:118)
+01062023-21:55 WARN Failed to connect to database josmith@test.com at mybestvalue
+18122023-15:57 ERROR Disk space running low on josmith@test.com
+05062023-16:04 INFO Error writing to file josmith@test.com in directory highpriority
+21022023-19:07 ERROR Timeout occurred while waiting for response from admin@company.com
+29072023-07:31 WARN Error writing to file admin@company.com in directory highpriority
+03112023-16:33 WARN User billbrown@test.com attempted unauthorized access
+05122023-01:48 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 373 Helper.parseDateFromString(line:72) Main.outputDate(line:100)
+04102023-14:27 INFO File janedoe@example.com not found in directory highpriority
+17012023-04:49 ERROR File josmith@test.com not found in directory mybestvalue
+19082023-01:56 INFO Timeout occurred while waiting for response from josmith@test.com
+05072023-12:33 WARN Failed to connect to database billbrown@test.com at adminaccount
+30102023-07:40 INFO File josmith@test.com not found in directory highpriority
+08012023-00:02 ERROR Disk space running low on janedoe@example.com
+06042023-15:49 ERROR Disk space running low on janedoe@example.com
+17032023-09:03 ERROR Network packet loss detected between janedoe@example.com and jamesome
+09062023-15:57 WARN Error writing to file admin@company.com in directory highpriority
+06062023-15:03 WARN Memory allocation error at josmith@test.com adminaccount(line:102)
+03072023-03:20 WARN Disk space running low on janedoe@example.com
+30062023-09:52 ERROR Disk space running low on janedoe@example.com
+14122023-17:51 ERROR Timeout occurred while waiting for response from janedoe@example.com
+16012023-18:18 ERROR Error writing to file billbrown@test.com in directory highpriority
+29042023-07:30 INFO Memory allocation error at billbrown@test.com adminaccount(line:462)
+23052023-06:45 INFO Disk space running low on billbrown@test.com
+20112023-00:55 WARN Error writing to file admin@company.com in directory adminaccount
+21062023-11:07 INFO Disk space running low on billbrown@test.com
+27012023-09:13 WARN Memory allocation error at admin@company.com jamesome(line:36)
+09022023-11:03 WARN Disk space running low on janedoe@example.com
+02102023-01:17 ERROR Disk space running low on josmith@test.com
+08012023-01:57 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 237 Main.outputDate(line:21) Main.outputDate(line:88)
+03082023-06:29 ERROR User josmith@test.com attempted unauthorized access
+19062023-14:18 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 475 FileHandler.saveData(line:90) Helper.parseDateFromString(line:67)
+09012023-00:45 INFO User janedoe@example.com attempted unauthorized access
+29102023-10:03 WARN User josmith@test.com attempted unauthorized access
+12112023-03:14 INFO File josmith@test.com not found in directory highpriority
+15022023-22:44 WARN Failed to connect to database janedoe@example.com at jamesome
+17112023-15:09 WARN Error writing to file josmith@test.com in directory adminaccount
+29042023-11:26 ERROR Error writing to file janedoe@example.com in directory jamesome
+25112023-06:47 WARN User josmith@test.com attempted unauthorized access
+24012023-05:49 INFO Cannot find user janedoe@example.com on account jamesome
+07012023-22:48 INFO Error writing to file josmith@test.com in directory highpriority
+07032023-05:54 WARN User admin@company.com attempted unauthorized access
+06042023-15:14 ERROR Network packet loss detected between admin@company.com and mybestvalue
+25072023-21:31 WARN Cannot find user josmith@test.com on account mybestvalue
+20052023-03:50 WARN Memory allocation error at josmith@test.com jamesome(line:67)
+06032023-07:22 WARN Cannot find user josmith@test.com on account highpriority
+13112023-15:39 INFO Error writing to file billbrown@test.com in directory highpriority
+16122023-23:39 ERROR Error writing to file josmith@test.com in directory mybestvalue
+12012023-14:04 WARN Network packet loss detected between billbrown@test.com and adminaccount
+19042023-04:54 INFO Network packet loss detected between janedoe@example.com and mybestvalue
+17042023-01:14 WARN Error writing to file billbrown@test.com in directory adminaccount
+04102023-06:34 INFO Error writing to file josmith@test.com in directory highpriority
+10022023-15:03 INFO Timeout occurred while waiting for response from josmith@test.com
+15052023-11:46 ERROR Error writing to file admin@company.com in directory adminaccount
+30042023-19:51 INFO Network packet loss detected between billbrown@test.com and jamesome
+08062023-16:39 INFO Timeout occurred while waiting for response from admin@company.com
+25052023-06:31 WARN Failed to connect to database billbrown@test.com at mybestvalue
+01082023-21:24 ERROR Failed to connect to database janedoe@example.com at highpriority
+15032023-07:34 ERROR Error writing to file admin@company.com in directory adminaccount
+17042023-06:33 ERROR Failed to connect to database admin@company.com at adminaccount
+15032023-11:31 WARN Memory allocation error at admin@company.com mybestvalue(line:379)
+26122023-19:08 WARN Failed to connect to database admin@company.com at adminaccount
+13122023-19:33 INFO Failed to connect to database billbrown@test.com at adminaccount
+16092023-07:04 ERROR Exception thrown: Unknown dateformat 'YDGI' at line: 344 Helper.parseDateFromString(line:40) FileHandler.saveData(line:35)
+30042023-05:17 WARN Cannot find user billbrown@test.com on account jamesome
+04022023-13:35 WARN File admin@company.com not found in directory mybestvalue
+21072023-18:20 ERROR Error writing to file janedoe@example.com in directory adminaccount
+09082023-21:27 INFO Disk space running low on josmith@test.com
+31102023-19:27 INFO Exception thrown: Unknown dateformat 'DDDDD' at line: 342 Main.outputDate(line:40) Main.outputDate(line:88)
+21042023-17:25 ERROR Disk space running low on janedoe@example.com
+14102023-06:04 ERROR Timeout occurred while waiting for response from billbrown@test.com
+26122023-02:18 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 64 FileHandler.saveData(line:42) Main.outputDate(line:99)
+22042023-14:28 WARN User josmith@test.com attempted unauthorized access
+02032023-03:43 INFO Timeout occurred while waiting for response from admin@company.com
+12072023-16:40 ERROR Network packet loss detected between josmith@test.com and jamesome
+17022023-05:12 ERROR Exception thrown: Unknown dateformat 'MM/YYYY' at line: 403 Main.outputDate(line:74) Main.outputDate(line:95)
+11092023-19:54 ERROR File billbrown@test.com not found in directory highpriority
+21052023-20:11 WARN User josmith@test.com attempted unauthorized access
+05022023-07:59 ERROR Timeout occurred while waiting for response from billbrown@test.com
+24012023-15:50 ERROR Timeout occurred while waiting for response from janedoe@example.com
+25112023-19:23 ERROR User admin@company.com attempted unauthorized access
+07062023-22:26 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 131 FileHandler.saveData(line:61) Main.outputDate(line:20)
+12012023-09:01 WARN Cannot find user billbrown@test.com on account adminaccount
+10122023-18:49 WARN Timeout occurred while waiting for response from josmith@test.com
+21022023-15:28 WARN Disk space running low on janedoe@example.com
+05092023-09:36 INFO File billbrown@test.com not found in directory jamesome
+03042023-13:28 INFO Cannot find user janedoe@example.com on account mybestvalue
+03032023-18:17 ERROR User admin@company.com attempted unauthorized access
+28062023-14:31 INFO Network packet loss detected between billbrown@test.com and mybestvalue
+04022023-04:49 INFO Disk space running low on janedoe@example.com
+17102023-19:20 INFO Timeout occurred while waiting for response from billbrown@test.com
+29082023-22:40 INFO Disk space running low on billbrown@test.com
+07032023-19:30 ERROR Error writing to file janedoe@example.com in directory jamesome
+12052023-08:21 WARN Network packet loss detected between josmith@test.com and jamesome
+11102023-04:18 WARN Disk space running low on josmith@test.com
+13082023-02:07 INFO Failed to connect to database josmith@test.com at adminaccount
+24102023-09:04 INFO Network packet loss detected between admin@company.com and adminaccount
+04012023-10:33 INFO Cannot find user janedoe@example.com on account highpriority
+21062023-12:52 ERROR File admin@company.com not found in directory jamesome
+04022023-11:33 INFO Disk space running low on janedoe@example.com
+31082023-06:38 WARN File admin@company.com not found in directory jamesome
+03112023-10:28 ERROR Timeout occurred while waiting for response from janedoe@example.com
+22092023-15:18 INFO File janedoe@example.com not found in directory highpriority
+19082023-15:41 WARN Cannot find user janedoe@example.com on account adminaccount
+24102023-15:05 INFO Cannot find user admin@company.com on account jamesome
+28112023-16:34 ERROR User janedoe@example.com attempted unauthorized access
+19122023-21:02 INFO File billbrown@test.com not found in directory mybestvalue
+14042023-08:16 WARN Error writing to file josmith@test.com in directory adminaccount
+10082023-13:13 WARN Cannot find user josmith@test.com on account adminaccount
+06012023-12:34 ERROR Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 374 FileHandler.saveData(line:98) FileHandler.saveData(line:23)
+21082023-12:51 INFO Timeout occurred while waiting for response from josmith@test.com
+14012023-01:05 WARN Cannot find user billbrown@test.com on account adminaccount
+20052023-20:58 WARN Memory allocation error at admin@company.com jamesome(line:490)
+07082023-17:19 INFO User josmith@test.com attempted unauthorized access
+26052023-17:06 ERROR Network packet loss detected between admin@company.com and highpriority
+13102023-18:45 WARN Disk space running low on admin@company.com
+13122023-18:37 WARN Network packet loss detected between billbrown@test.com and highpriority
+17062023-07:05 WARN Disk space running low on billbrown@test.com
+04032023-21:53 ERROR User josmith@test.com attempted unauthorized access
+23042023-05:36 ERROR Failed to connect to database billbrown@test.com at highpriority
+13082023-03:55 ERROR Failed to connect to database janedoe@example.com at jamesome
+30032023-01:20 INFO Disk space running low on admin@company.com
+07122023-22:03 WARN Memory allocation error at admin@company.com jamesome(line:171)
+21042023-03:54 INFO Network packet loss detected between admin@company.com and highpriority
+06102023-06:04 INFO Cannot find user admin@company.com on account jamesome
+21022023-20:53 INFO Cannot find user billbrown@test.com on account adminaccount
+28032023-06:41 ERROR Error writing to file janedoe@example.com in directory mybestvalue
+13052023-01:42 INFO Memory allocation error at janedoe@example.com highpriority(line:263)
+19122023-04:37 WARN Failed to connect to database josmith@test.com at highpriority
+04082023-00:07 WARN Error writing to file admin@company.com in directory highpriority
+27092023-03:18 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 253 Main.outputDate(line:23) FileHandler.saveData(line:50)
+15052023-01:31 INFO User josmith@test.com attempted unauthorized access
+05112023-12:19 INFO File janedoe@example.com not found in directory jamesome
+10012023-17:52 INFO Disk space running low on billbrown@test.com
+16082023-17:18 WARN Error writing to file josmith@test.com in directory highpriority
+25112023-11:43 INFO Error writing to file josmith@test.com in directory highpriority
+18032023-11:37 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 323 Helper.parseDateFromString(line:97) Helper.parseDateFromString(line:31)
+11102023-05:17 INFO Disk space running low on josmith@test.com
+12102023-17:22 INFO Timeout occurred while waiting for response from billbrown@test.com
+15072023-04:22 ERROR Failed to connect to database billbrown@test.com at highpriority
+06062023-21:16 ERROR Network packet loss detected between janedoe@example.com and highpriority
+06072023-00:44 ERROR Timeout occurred while waiting for response from admin@company.com
+19052023-20:43 WARN Network packet loss detected between josmith@test.com and highpriority
+13032023-03:08 WARN File josmith@test.com not found in directory adminaccount
+27082023-15:51 INFO Cannot find user josmith@test.com on account jamesome
+22032023-11:42 WARN User billbrown@test.com attempted unauthorized access
+29102023-02:47 ERROR Disk space running low on billbrown@test.com
+23032023-06:33 ERROR Network packet loss detected between janedoe@example.com and highpriority
+18102023-19:05 ERROR Disk space running low on billbrown@test.com
+24062023-03:10 INFO Cannot find user janedoe@example.com on account adminaccount
+23022023-21:42 INFO Timeout occurred while waiting for response from admin@company.com
+11122023-11:46 ERROR Error writing to file josmith@test.com in directory highpriority
+29042023-00:34 WARN Disk space running low on admin@company.com
+10072023-18:01 INFO Network packet loss detected between janedoe@example.com and jamesome
+23022023-20:23 ERROR Failed to connect to database josmith@test.com at jamesome
+31072023-16:45 INFO Error writing to file admin@company.com in directory adminaccount
+21122023-23:08 INFO Memory allocation error at josmith@test.com highpriority(line:426)
+09032023-09:57 INFO Disk space running low on josmith@test.com
+13032023-14:33 ERROR Error writing to file janedoe@example.com in directory mybestvalue
+28112023-04:17 WARN Timeout occurred while waiting for response from josmith@test.com
+10102023-12:05 ERROR Timeout occurred while waiting for response from billbrown@test.com
+26062023-12:53 WARN File billbrown@test.com not found in directory adminaccount
+15032023-01:23 INFO Network packet loss detected between billbrown@test.com and highpriority
+19072023-09:08 INFO Failed to connect to database josmith@test.com at highpriority
+16042023-06:46 INFO Network packet loss detected between josmith@test.com and highpriority
+02042023-23:48 ERROR Cannot find user admin@company.com on account jamesome
+17032023-19:26 WARN Error writing to file janedoe@example.com in directory highpriority
+25102023-11:32 ERROR Timeout occurred while waiting for response from janedoe@example.com
+21012023-14:52 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 283 Helper.parseDateFromString(line:61) FileHandler.saveData(line:63)
+08102023-01:02 INFO Network packet loss detected between billbrown@test.com and adminaccount
+10032023-03:45 ERROR Network packet loss detected between admin@company.com and mybestvalue
+05062023-22:12 INFO Timeout occurred while waiting for response from josmith@test.com
+12042023-08:17 INFO Network packet loss detected between josmith@test.com and adminaccount
+18012023-06:57 WARN Timeout occurred while waiting for response from janedoe@example.com
+08082023-21:44 INFO Timeout occurred while waiting for response from admin@company.com
+30042023-01:21 WARN Disk space running low on josmith@test.com
+09092023-13:03 INFO User janedoe@example.com attempted unauthorized access
+01122023-13:05 INFO User janedoe@example.com attempted unauthorized access
+05042023-22:20 WARN Failed to connect to database josmith@test.com at highpriority
+12122023-10:25 ERROR Network packet loss detected between janedoe@example.com and jamesome
+14052023-13:42 INFO Network packet loss detected between janedoe@example.com and adminaccount
+22062023-20:28 ERROR Disk space running low on janedoe@example.com
+17052023-05:29 WARN User billbrown@test.com attempted unauthorized access
+21062023-13:03 ERROR Cannot find user billbrown@test.com on account jamesome
+28072023-12:12 WARN Failed to connect to database janedoe@example.com at highpriority
+22112023-03:25 ERROR File janedoe@example.com not found in directory mybestvalue
+11062023-21:47 INFO File billbrown@test.com not found in directory highpriority
+23052023-09:06 ERROR Timeout occurred while waiting for response from janedoe@example.com
+04112023-12:18 ERROR Cannot find user billbrown@test.com on account mybestvalue
+19042023-00:20 WARN User josmith@test.com attempted unauthorized access
+27102023-22:42 INFO User billbrown@test.com attempted unauthorized access
+27092023-14:32 WARN Error writing to file billbrown@test.com in directory mybestvalue
+15072023-05:19 WARN Disk space running low on admin@company.com
+05052023-00:50 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 210 Main.outputDate(line:67) Main.outputDate(line:55)
+09082023-16:59 ERROR Timeout occurred while waiting for response from billbrown@test.com
+11072023-05:53 WARN Failed to connect to database janedoe@example.com at jamesome
+20062023-11:08 INFO Timeout occurred while waiting for response from admin@company.com
+09122023-17:22 ERROR File janedoe@example.com not found in directory highpriority
+20052023-20:40 WARN Network packet loss detected between janedoe@example.com and adminaccount
+03022023-10:50 INFO Disk space running low on josmith@test.com
+03052023-05:59 ERROR Cannot find user billbrown@test.com on account mybestvalue
+12052023-00:12 ERROR Cannot find user janedoe@example.com on account mybestvalue
+01072023-10:46 ERROR Failed to connect to database billbrown@test.com at highpriority
+22042023-22:34 ERROR Network packet loss detected between janedoe@example.com and jamesome
+05032023-01:46 INFO User billbrown@test.com attempted unauthorized access
+18022023-18:20 ERROR Failed to connect to database admin@company.com at highpriority
+22022023-15:17 INFO Disk space running low on janedoe@example.com
+13012023-19:03 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 55 Main.outputDate(line:67) FileHandler.saveData(line:32)
+11012023-08:39 WARN User billbrown@test.com attempted unauthorized access
+10062023-02:44 WARN Cannot find user josmith@test.com on account mybestvalue
+21102023-00:04 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 189 Main.outputDate(line:19) Main.outputDate(line:69)
+23102023-21:05 ERROR Cannot find user billbrown@test.com on account adminaccount
+17092023-20:26 WARN Timeout occurred while waiting for response from billbrown@test.com
+23122023-20:14 WARN Cannot find user josmith@test.com on account mybestvalue
+22122023-16:56 WARN Failed to connect to database billbrown@test.com at jamesome
+23022023-16:21 WARN User billbrown@test.com attempted unauthorized access
+31032023-17:25 INFO Failed to connect to database janedoe@example.com at highpriority
+04092023-20:43 INFO File billbrown@test.com not found in directory mybestvalue
+30102023-05:28 ERROR User josmith@test.com attempted unauthorized access
+04042023-17:21 WARN Disk space running low on billbrown@test.com
+15112023-03:04 ERROR Error writing to file josmith@test.com in directory adminaccount
+14082023-09:54 INFO Error writing to file josmith@test.com in directory mybestvalue
+19072023-10:21 ERROR Cannot find user admin@company.com on account adminaccount
+02062023-08:56 WARN Error writing to file admin@company.com in directory highpriority
+08072023-09:59 WARN File billbrown@test.com not found in directory highpriority
+06062023-02:45 ERROR Timeout occurred while waiting for response from janedoe@example.com
+22022023-19:16 WARN File josmith@test.com not found in directory highpriority
+14042023-23:25 INFO User janedoe@example.com attempted unauthorized access
+07122023-11:05 INFO Network packet loss detected between admin@company.com and mybestvalue
+15012023-18:32 ERROR Error writing to file admin@company.com in directory highpriority
+24062023-22:54 INFO Disk space running low on billbrown@test.com
+26102023-15:41 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 479 Helper.parseDateFromString(line:32) FileHandler.saveData(line:91)
+08062023-11:18 WARN Memory allocation error at admin@company.com adminaccount(line:409)
+31012023-21:29 WARN Memory allocation error at janedoe@example.com highpriority(line:287)
+14092023-00:50 ERROR User admin@company.com attempted unauthorized access
+10032023-19:06 ERROR Network packet loss detected between janedoe@example.com and adminaccount
+05102023-19:00 INFO User billbrown@test.com attempted unauthorized access
+22062023-20:45 ERROR Exception thrown: Unknown dateformat 'MM/YYYY' at line: 454 Helper.parseDateFromString(line:91) FileHandler.saveData(line:63)
+27082023-20:36 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 378 FileHandler.saveData(line:79) Helper.parseDateFromString(line:35)
+25032023-14:59 WARN File janedoe@example.com not found in directory highpriority
+23042023-12:39 INFO Error writing to file josmith@test.com in directory mybestvalue
+26052023-01:54 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 445 Helper.parseDateFromString(line:90) FileHandler.saveData(line:78)
+20082023-06:58 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 123 Helper.parseDateFromString(line:65) Main.outputDate(line:50)
+05052023-16:23 INFO Disk space running low on admin@company.com
+20112023-16:52 INFO File janedoe@example.com not found in directory jamesome
+22062023-10:47 WARN Disk space running low on admin@company.com
+03012023-17:27 INFO Failed to connect to database janedoe@example.com at jamesome
+21112023-15:08 INFO Memory allocation error at billbrown@test.com mybestvalue(line:74)
+15112023-01:32 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 82 Helper.parseDateFromString(line:89) Helper.parseDateFromString(line:60)
+23082023-23:43 INFO File janedoe@example.com not found in directory jamesome
+22052023-16:40 INFO Memory allocation error at josmith@test.com jamesome(line:403)
+10012023-04:49 WARN User josmith@test.com attempted unauthorized access
+29042023-06:22 INFO User billbrown@test.com attempted unauthorized access
+29102023-15:11 ERROR Exception thrown: Unknown dateformat 'DDDDD' at line: 231 FileHandler.saveData(line:52) Main.outputDate(line:46)
+21022023-00:20 INFO Error writing to file billbrown@test.com in directory adminaccount
+25072023-16:24 ERROR Memory allocation error at admin@company.com adminaccount(line:456)
+06092023-23:23 ERROR Disk space running low on billbrown@test.com
+28062023-07:56 ERROR Network packet loss detected between josmith@test.com and jamesome
+13012023-01:56 INFO Error writing to file janedoe@example.com in directory mybestvalue
+25042023-21:37 ERROR User admin@company.com attempted unauthorized access
+02022023-06:49 INFO Error writing to file josmith@test.com in directory adminaccount
+19052023-09:13 INFO Memory allocation error at janedoe@example.com adminaccount(line:473)
+02092023-20:50 INFO Error writing to file janedoe@example.com in directory adminaccount
+26082023-08:26 ERROR Failed to connect to database billbrown@test.com at highpriority
+04012023-16:16 WARN Failed to connect to database billbrown@test.com at adminaccount
+22052023-21:14 ERROR Memory allocation error at admin@company.com jamesome(line:33)
+14082023-12:36 ERROR User janedoe@example.com attempted unauthorized access
+01012023-15:31 INFO File josmith@test.com not found in directory jamesome
+11022023-10:43 INFO User admin@company.com attempted unauthorized access
+01072023-01:12 WARN Cannot find user josmith@test.com on account jamesome
+02102023-16:47 WARN Error writing to file billbrown@test.com in directory adminaccount
+16052023-04:18 WARN Network packet loss detected between admin@company.com and mybestvalue
+23102023-10:28 INFO Failed to connect to database billbrown@test.com at mybestvalue
+26042023-15:07 INFO Network packet loss detected between josmith@test.com and mybestvalue
+22112023-19:43 ERROR Memory allocation error at billbrown@test.com highpriority(line:121)
+22042023-11:06 INFO File admin@company.com not found in directory adminaccount
+20112023-19:48 ERROR Timeout occurred while waiting for response from josmith@test.com
+23052023-22:02 INFO Memory allocation error at josmith@test.com adminaccount(line:32)
+05092023-12:36 WARN Disk space running low on billbrown@test.com
+17102023-17:34 INFO Failed to connect to database josmith@test.com at highpriority
+15022023-21:15 ERROR User janedoe@example.com attempted unauthorized access
+31082023-09:21 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 195 Main.outputDate(line:23) Helper.parseDateFromString(line:46)
+31122023-13:30 ERROR Error writing to file josmith@test.com in directory jamesome
+26042023-01:56 INFO Disk space running low on billbrown@test.com
+28112023-04:16 ERROR Failed to connect to database josmith@test.com at jamesome
+10072023-14:01 WARN File josmith@test.com not found in directory mybestvalue
+23052023-09:33 WARN Network packet loss detected between josmith@test.com and adminaccount
+16042023-06:03 ERROR Cannot find user admin@company.com on account jamesome
+08062023-16:57 WARN Network packet loss detected between josmith@test.com and mybestvalue
+16112023-18:31 ERROR File admin@company.com not found in directory highpriority
+20112023-02:48 INFO Cannot find user billbrown@test.com on account mybestvalue
+26032023-17:10 WARN Disk space running low on janedoe@example.com
+01092023-18:38 INFO Timeout occurred while waiting for response from billbrown@test.com
+16062023-16:25 ERROR Exception thrown: Unknown dateformat 'YDGI' at line: 296 FileHandler.saveData(line:17) FileHandler.saveData(line:11)
+05032023-19:48 WARN Memory allocation error at billbrown@test.com mybestvalue(line:268)
+03122023-12:42 WARN User admin@company.com attempted unauthorized access
+06022023-17:11 WARN Memory allocation error at josmith@test.com highpriority(line:64)
+06082023-15:08 ERROR Cannot find user admin@company.com on account highpriority
+13012023-16:31 INFO Disk space running low on billbrown@test.com
+03082023-00:58 ERROR Exception thrown: Unknown dateformat 'YDGI' at line: 488 Main.outputDate(line:68) Helper.parseDateFromString(line:82)
+22102023-12:59 WARN Timeout occurred while waiting for response from janedoe@example.com
+01052023-12:14 ERROR File billbrown@test.com not found in directory highpriority
+12062023-12:58 INFO Failed to connect to database josmith@test.com at adminaccount
+10042023-23:57 INFO File billbrown@test.com not found in directory highpriority
+11122023-20:00 INFO Memory allocation error at admin@company.com jamesome(line:228)
+12022023-02:41 ERROR File admin@company.com not found in directory jamesome
+11052023-10:31 WARN Failed to connect to database josmith@test.com at highpriority
+28012023-22:05 INFO Memory allocation error at josmith@test.com adminaccount(line:390)
+30032023-23:49 ERROR Network packet loss detected between josmith@test.com and mybestvalue
+30032023-00:55 ERROR Disk space running low on josmith@test.com
+10082023-08:10 INFO Disk space running low on josmith@test.com
+25092023-21:35 ERROR Timeout occurred while waiting for response from admin@company.com
+10042023-12:19 WARN Disk space running low on josmith@test.com
+28032023-22:47 ERROR Error writing to file billbrown@test.com in directory highpriority
+21052023-08:03 INFO Network packet loss detected between janedoe@example.com and jamesome
+02052023-08:25 INFO Network packet loss detected between admin@company.com and jamesome
+06092023-15:52 INFO Cannot find user admin@company.com on account mybestvalue
+29102023-15:17 INFO Memory allocation error at billbrown@test.com adminaccount(line:297)
+20082023-00:42 ERROR File josmith@test.com not found in directory adminaccount
+25072023-13:14 ERROR Disk space running low on josmith@test.com
+18072023-19:33 INFO Disk space running low on billbrown@test.com
+15042023-04:17 ERROR Exception thrown: Unknown dateformat 'DDDDD' at line: 499 FileHandler.saveData(line:74) Helper.parseDateFromString(line:15)
+08122023-02:20 ERROR Disk space running low on admin@company.com
+06052023-08:20 ERROR Disk space running low on admin@company.com
+27062023-00:52 ERROR Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 154 Main.outputDate(line:16) Helper.parseDateFromString(line:57)
+29052023-18:29 WARN Failed to connect to database janedoe@example.com at mybestvalue
+12072023-18:13 ERROR Memory allocation error at billbrown@test.com highpriority(line:71)
+23092023-17:31 INFO Failed to connect to database admin@company.com at highpriority
+28072023-13:03 WARN Memory allocation error at janedoe@example.com highpriority(line:303)
+08102023-14:59 ERROR File admin@company.com not found in directory jamesome
+28092023-02:31 WARN File janedoe@example.com not found in directory mybestvalue
+04122023-11:31 INFO Timeout occurred while waiting for response from josmith@test.com
+28072023-11:14 WARN Timeout occurred while waiting for response from billbrown@test.com
+30042023-08:23 INFO Disk space running low on josmith@test.com
+23072023-08:46 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 88 Main.outputDate(line:58) Main.outputDate(line:95)
+25082023-23:53 INFO Memory allocation error at billbrown@test.com mybestvalue(line:39)
+13042023-01:15 INFO Timeout occurred while waiting for response from josmith@test.com
+21022023-08:35 INFO File josmith@test.com not found in directory mybestvalue
+03052023-06:33 INFO User janedoe@example.com attempted unauthorized access
+14042023-02:11 ERROR File admin@company.com not found in directory jamesome
+11112023-04:56 WARN Error writing to file admin@company.com in directory jamesome
+16042023-21:49 ERROR Disk space running low on admin@company.com
+19062023-18:28 ERROR Cannot find user janedoe@example.com on account adminaccount
+20052023-09:00 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 411 Main.outputDate(line:21) Main.outputDate(line:53)
+12122023-23:45 INFO Disk space running low on janedoe@example.com
+26062023-15:45 INFO Network packet loss detected between billbrown@test.com and adminaccount
+31122023-00:06 INFO Cannot find user josmith@test.com on account mybestvalue
+08032023-18:38 ERROR File josmith@test.com not found in directory jamesome
+16032023-02:28 ERROR Memory allocation error at janedoe@example.com highpriority(line:295)
+27042023-16:51 ERROR Network packet loss detected between janedoe@example.com and mybestvalue
+14032023-14:37 INFO Network packet loss detected between admin@company.com and highpriority
+09052023-15:16 ERROR Memory allocation error at janedoe@example.com jamesome(line:462)
+16052023-19:39 ERROR Memory allocation error at billbrown@test.com adminaccount(line:485)
+01012023-19:23 INFO Cannot find user janedoe@example.com on account highpriority
+30012023-02:04 WARN Error writing to file billbrown@test.com in directory mybestvalue
+21092023-01:10 ERROR Memory allocation error at janedoe@example.com highpriority(line:203)
+30122023-00:01 ERROR Memory allocation error at admin@company.com mybestvalue(line:54)
+25082023-12:45 INFO Error writing to file janedoe@example.com in directory jamesome
+23122023-03:42 ERROR File janedoe@example.com not found in directory mybestvalue
+21022023-00:05 ERROR Memory allocation error at billbrown@test.com mybestvalue(line:384)
+05022023-03:42 WARN Disk space running low on admin@company.com
+21072023-00:22 ERROR Disk space running low on billbrown@test.com
+05052023-12:04 ERROR Memory allocation error at billbrown@test.com jamesome(line:112)
+18102023-16:09 WARN Network packet loss detected between janedoe@example.com and mybestvalue
+14052023-14:40 ERROR Error writing to file janedoe@example.com in directory highpriority
+18102023-14:51 INFO Disk space running low on josmith@test.com
+10082023-17:07 INFO Network packet loss detected between billbrown@test.com and mybestvalue
+26122023-15:35 INFO Disk space running low on billbrown@test.com
+25112023-17:06 ERROR Cannot find user josmith@test.com on account adminaccount
+31102023-05:33 WARN Disk space running low on admin@company.com
+06102023-16:43 ERROR Error writing to file josmith@test.com in directory highpriority
+30012023-22:46 WARN Cannot find user billbrown@test.com on account mybestvalue
+13082023-21:02 INFO Failed to connect to database josmith@test.com at jamesome
+06112023-12:16 ERROR Error writing to file admin@company.com in directory mybestvalue
+08082023-16:01 WARN File admin@company.com not found in directory adminaccount
+03102023-02:57 WARN Cannot find user janedoe@example.com on account mybestvalue
+29082023-12:35 ERROR Network packet loss detected between admin@company.com and mybestvalue
+30102023-16:05 ERROR Timeout occurred while waiting for response from admin@company.com
+18102023-01:04 INFO Exception thrown: Unknown dateformat 'MM/YYYY' at line: 56 Main.outputDate(line:94) Main.outputDate(line:83)
+15122023-19:23 ERROR Timeout occurred while waiting for response from admin@company.com
+12112023-06:05 WARN Failed to connect to database admin@company.com at jamesome
+19022023-06:47 WARN File josmith@test.com not found in directory adminaccount
+23092023-15:57 INFO Disk space running low on janedoe@example.com
+03032023-18:41 INFO Network packet loss detected between billbrown@test.com and highpriority
+26022023-07:59 WARN Cannot find user admin@company.com on account mybestvalue
+07012023-09:29 WARN User billbrown@test.com attempted unauthorized access
+20102023-09:16 WARN Memory allocation error at janedoe@example.com highpriority(line:346)
+20052023-18:49 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 193 FileHandler.saveData(line:33) Helper.parseDateFromString(line:21)
+11042023-16:36 INFO Timeout occurred while waiting for response from josmith@test.com
+04052023-02:28 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 98 Main.outputDate(line:95) FileHandler.saveData(line:55)
+10052023-15:13 ERROR Timeout occurred while waiting for response from janedoe@example.com
+14092023-11:48 ERROR File admin@company.com not found in directory mybestvalue
+13112023-11:37 WARN Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 454 Helper.parseDateFromString(line:33) Helper.parseDateFromString(line:16)
+25032023-18:48 ERROR Error writing to file admin@company.com in directory mybestvalue
+20112023-23:09 ERROR Disk space running low on billbrown@test.com
+27082023-22:35 WARN Network packet loss detected between josmith@test.com and mybestvalue
+21032023-22:48 ERROR Disk space running low on billbrown@test.com
+22032023-06:40 INFO Failed to connect to database admin@company.com at jamesome
+09012023-15:36 WARN Disk space running low on admin@company.com
+03052023-15:45 ERROR Memory allocation error at josmith@test.com mybestvalue(line:5)
+26082023-04:30 WARN Memory allocation error at admin@company.com mybestvalue(line:183)
+01052023-05:12 ERROR Network packet loss detected between josmith@test.com and adminaccount
+30052023-13:15 INFO Failed to connect to database janedoe@example.com at jamesome
+12092023-17:09 INFO Disk space running low on billbrown@test.com
+28052023-19:21 ERROR Error writing to file janedoe@example.com in directory adminaccount
+26112023-02:45 ERROR Cannot find user janedoe@example.com on account jamesome
+03012023-12:18 WARN Disk space running low on billbrown@test.com
+20042023-00:28 ERROR File janedoe@example.com not found in directory adminaccount
+18122023-21:32 INFO Network packet loss detected between janedoe@example.com and jamesome
+18062023-13:25 WARN Disk space running low on billbrown@test.com
+21092023-12:37 WARN File billbrown@test.com not found in directory adminaccount
+18032023-09:01 INFO Error writing to file josmith@test.com in directory adminaccount
+05102023-03:40 ERROR Timeout occurred while waiting for response from admin@company.com
+23022023-16:42 INFO Timeout occurred while waiting for response from admin@company.com
+10042023-21:55 WARN Cannot find user josmith@test.com on account jamesome
+03082023-10:41 INFO Timeout occurred while waiting for response from billbrown@test.com
+15102023-04:17 WARN User janedoe@example.com attempted unauthorized access
+19052023-17:28 ERROR User billbrown@test.com attempted unauthorized access
+04032023-00:05 INFO Failed to connect to database admin@company.com at mybestvalue
+08082023-13:04 ERROR Cannot find user admin@company.com on account mybestvalue
+28032023-11:45 ERROR Error writing to file admin@company.com in directory mybestvalue
+23102023-08:28 ERROR Disk space running low on janedoe@example.com
+28122023-23:13 WARN User billbrown@test.com attempted unauthorized access
+18102023-18:59 WARN Cannot find user josmith@test.com on account jamesome
+04092023-08:51 ERROR User billbrown@test.com attempted unauthorized access
+01092023-12:50 INFO Disk space running low on billbrown@test.com
+03022023-03:36 WARN Cannot find user admin@company.com on account jamesome
+04082023-21:52 ERROR Cannot find user janedoe@example.com on account adminaccount
+15062023-22:39 ERROR Failed to connect to database admin@company.com at jamesome
+16062023-17:07 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 82 Main.outputDate(line:61) FileHandler.saveData(line:33)
+13112023-04:57 ERROR Failed to connect to database josmith@test.com at adminaccount
+02092023-07:10 WARN File admin@company.com not found in directory adminaccount
+01112023-14:13 WARN Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 392 Main.outputDate(line:59) Main.outputDate(line:80)
+20012023-11:35 ERROR Exception thrown: Unknown dateformat 'DDDDD' at line: 493 FileHandler.saveData(line:89) Main.outputDate(line:66)
+12012023-12:39 INFO Failed to connect to database janedoe@example.com at highpriority
+13082023-16:08 INFO Network packet loss detected between billbrown@test.com and jamesome
+25012023-16:11 WARN Cannot find user josmith@test.com on account mybestvalue
+12122023-21:10 ERROR Error writing to file admin@company.com in directory jamesome
+27062023-09:55 ERROR Cannot find user admin@company.com on account mybestvalue
+11062023-11:00 ERROR File billbrown@test.com not found in directory adminaccount
+12012023-04:35 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 51 Main.outputDate(line:98) Helper.parseDateFromString(line:57)
+19052023-18:41 ERROR Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 338 Helper.parseDateFromString(line:88) Main.outputDate(line:62)
+02122023-10:10 ERROR User billbrown@test.com attempted unauthorized access
+31052023-11:06 ERROR Network packet loss detected between josmith@test.com and highpriority
+15022023-19:50 WARN Cannot find user billbrown@test.com on account jamesome
+08032023-09:56 WARN Cannot find user janedoe@example.com on account adminaccount
+28042023-05:02 INFO Network packet loss detected between billbrown@test.com and adminaccount
+17062023-12:05 INFO Exception thrown: Unknown dateformat 'MM/YYYY' at line: 295 Helper.parseDateFromString(line:2) Helper.parseDateFromString(line:62)
+14042023-23:00 ERROR Failed to connect to database admin@company.com at highpriority
+14082023-05:26 INFO Timeout occurred while waiting for response from admin@company.com
+06112023-03:27 WARN Failed to connect to database billbrown@test.com at jamesome
+27062023-12:35 WARN User josmith@test.com attempted unauthorized access
+04062023-04:52 WARN Timeout occurred while waiting for response from billbrown@test.com
+13042023-01:29 WARN User billbrown@test.com attempted unauthorized access
+07082023-07:39 ERROR User billbrown@test.com attempted unauthorized access
+11062023-18:55 WARN User admin@company.com attempted unauthorized access
+23042023-10:44 INFO User billbrown@test.com attempted unauthorized access
+11112023-22:45 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 391 FileHandler.saveData(line:91) Main.outputDate(line:81)
+02042023-15:11 WARN Network packet loss detected between josmith@test.com and adminaccount
+27122023-02:46 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 208 Helper.parseDateFromString(line:11) FileHandler.saveData(line:87)
+16092023-15:48 INFO Timeout occurred while waiting for response from admin@company.com
+18062023-03:23 WARN Error writing to file billbrown@test.com in directory highpriority
+14072023-05:32 ERROR File janedoe@example.com not found in directory adminaccount
+18042023-04:13 WARN Memory allocation error at admin@company.com adminaccount(line:77)
+24102023-15:38 ERROR Cannot find user billbrown@test.com on account adminaccount
+05102023-00:41 INFO Memory allocation error at admin@company.com highpriority(line:251)
+09042023-22:11 ERROR File billbrown@test.com not found in directory adminaccount
+20102023-17:29 ERROR Error writing to file janedoe@example.com in directory mybestvalue
+29122023-15:19 WARN File josmith@test.com not found in directory adminaccount
+04072023-15:22 INFO User janedoe@example.com attempted unauthorized access
+09012023-09:47 WARN Memory allocation error at admin@company.com highpriority(line:231)
+09072023-00:29 WARN Memory allocation error at josmith@test.com highpriority(line:454)
+10102023-08:34 ERROR Exception thrown: Unknown dateformat 'YDGI' at line: 44 Helper.parseDateFromString(line:49) Helper.parseDateFromString(line:78)
+21122023-23:03 INFO Memory allocation error at janedoe@example.com mybestvalue(line:281)
+18012023-17:09 ERROR Network packet loss detected between billbrown@test.com and adminaccount
+12072023-06:04 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 162 FileHandler.saveData(line:5) Helper.parseDateFromString(line:4)
+07022023-18:30 ERROR Memory allocation error at janedoe@example.com jamesome(line:448)
+22042023-16:38 INFO File janedoe@example.com not found in directory adminaccount
+08032023-09:01 WARN Cannot find user josmith@test.com on account mybestvalue
+06042023-10:48 ERROR Memory allocation error at billbrown@test.com adminaccount(line:387)
+08082023-16:27 WARN Failed to connect to database admin@company.com at mybestvalue
+06062023-18:07 WARN Disk space running low on josmith@test.com
+02112023-06:24 ERROR Network packet loss detected between josmith@test.com and mybestvalue
+29122023-23:49 ERROR Memory allocation error at josmith@test.com highpriority(line:278)
+08092023-18:32 WARN Memory allocation error at josmith@test.com highpriority(line:189)
+20102023-11:59 WARN Timeout occurred while waiting for response from josmith@test.com
+02032023-09:53 WARN Cannot find user josmith@test.com on account jamesome
+26122023-05:14 WARN User janedoe@example.com attempted unauthorized access
+22042023-09:24 INFO Disk space running low on janedoe@example.com
+03022023-19:22 ERROR Failed to connect to database josmith@test.com at mybestvalue
+27092023-05:39 WARN User janedoe@example.com attempted unauthorized access
+29062023-12:17 WARN Network packet loss detected between admin@company.com and jamesome
+10112023-06:52 INFO Network packet loss detected between janedoe@example.com and mybestvalue
+16042023-07:13 ERROR Cannot find user billbrown@test.com on account jamesome
+07072023-16:55 ERROR File josmith@test.com not found in directory mybestvalue
+25062023-09:02 ERROR Timeout occurred while waiting for response from janedoe@example.com
+07032023-04:35 INFO Network packet loss detected between billbrown@test.com and highpriority
+06122023-20:43 WARN Disk space running low on admin@company.com
+13012023-20:32 INFO Network packet loss detected between josmith@test.com and jamesome
+13092023-10:15 WARN Network packet loss detected between janedoe@example.com and mybestvalue
+16022023-03:22 ERROR Exception thrown: Unknown dateformat 'DDDDD' at line: 131 Helper.parseDateFromString(line:55) Helper.parseDateFromString(line:78)
+08112023-20:33 WARN User josmith@test.com attempted unauthorized access
+17102023-19:17 INFO Failed to connect to database billbrown@test.com at mybestvalue
+22092023-15:34 ERROR User billbrown@test.com attempted unauthorized access
+20072023-14:11 INFO User josmith@test.com attempted unauthorized access
+27112023-05:18 INFO Failed to connect to database admin@company.com at jamesome
+05102023-08:23 ERROR Exception thrown: Unknown dateformat 'MM/YYYY' at line: 61 Helper.parseDateFromString(line:29) Main.outputDate(line:22)
+24022023-06:38 INFO Network packet loss detected between admin@company.com and mybestvalue
+15102023-07:20 WARN Cannot find user billbrown@test.com on account mybestvalue
+20092023-07:33 ERROR User billbrown@test.com attempted unauthorized access
+21062023-08:53 WARN Timeout occurred while waiting for response from admin@company.com
+03102023-13:07 ERROR Failed to connect to database billbrown@test.com at mybestvalue
+22042023-23:06 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 466 Main.outputDate(line:27) Helper.parseDateFromString(line:100)
+27042023-06:03 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 299 Main.outputDate(line:53) Main.outputDate(line:78)
+13072023-06:56 WARN File billbrown@test.com not found in directory jamesome
+05032023-08:43 INFO Disk space running low on janedoe@example.com
+21062023-07:01 INFO Error writing to file admin@company.com in directory adminaccount
+21042023-22:02 INFO Memory allocation error at admin@company.com highpriority(line:107)
+04092023-12:16 WARN Memory allocation error at admin@company.com adminaccount(line:288)
+26092023-06:38 ERROR Cannot find user admin@company.com on account mybestvalue
+20012023-11:13 WARN Network packet loss detected between josmith@test.com and jamesome
+24102023-04:33 ERROR Failed to connect to database billbrown@test.com at highpriority
+26032023-06:01 ERROR User admin@company.com attempted unauthorized access
+19032023-08:33 WARN Disk space running low on josmith@test.com
+07062023-19:56 INFO Cannot find user josmith@test.com on account adminaccount
+27122023-22:00 WARN Exception thrown: Unknown dateformat 'YDGI' at line: 474 Main.outputDate(line:32) Main.outputDate(line:18)
+25102023-00:24 WARN User janedoe@example.com attempted unauthorized access
+13082023-07:26 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 112 Helper.parseDateFromString(line:71) Helper.parseDateFromString(line:94)
+22042023-10:07 ERROR Disk space running low on janedoe@example.com
+16012023-03:13 ERROR Exception thrown: Unknown dateformat 'YDGI' at line: 361 FileHandler.saveData(line:42) Main.outputDate(line:2)
+07052023-04:47 INFO File billbrown@test.com not found in directory adminaccount
+19122023-16:32 ERROR Cannot find user billbrown@test.com on account highpriority
+13032023-01:36 WARN Cannot find user josmith@test.com on account highpriority
+25052023-03:54 INFO Network packet loss detected between billbrown@test.com and adminaccount
+26082023-09:24 WARN Cannot find user josmith@test.com on account adminaccount
+10072023-18:09 WARN Error writing to file josmith@test.com in directory mybestvalue
+18012023-00:55 WARN User janedoe@example.com attempted unauthorized access
+01082023-12:55 INFO File billbrown@test.com not found in directory highpriority
+29072023-13:24 WARN Disk space running low on admin@company.com
+31102023-08:51 INFO Memory allocation error at billbrown@test.com adminaccount(line:261)
+21022023-10:09 INFO Failed to connect to database billbrown@test.com at highpriority
+02062023-22:20 WARN Memory allocation error at janedoe@example.com adminaccount(line:83)
+21012023-18:14 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 213 FileHandler.saveData(line:3) FileHandler.saveData(line:87)
+10032023-02:42 ERROR Cannot find user janedoe@example.com on account adminaccount
+11082023-02:12 ERROR Disk space running low on admin@company.com
+30112023-13:37 ERROR Error writing to file janedoe@example.com in directory mybestvalue
+19032023-11:57 ERROR Memory allocation error at josmith@test.com jamesome(line:404)
+10072023-13:28 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 362 Main.outputDate(line:18) Helper.parseDateFromString(line:2)
+24092023-00:16 ERROR File billbrown@test.com not found in directory adminaccount
+22092023-21:22 WARN Disk space running low on admin@company.com
+23122023-04:02 WARN Failed to connect to database admin@company.com at mybestvalue
+30062023-14:36 WARN File billbrown@test.com not found in directory jamesome
+30092023-01:22 WARN Timeout occurred while waiting for response from janedoe@example.com
+24102023-00:14 WARN User billbrown@test.com attempted unauthorized access
+03052023-17:00 INFO Error writing to file admin@company.com in directory jamesome
+22042023-12:56 WARN Cannot find user josmith@test.com on account jamesome
+07062023-04:50 ERROR Error writing to file admin@company.com in directory mybestvalue
+15062023-19:04 INFO Cannot find user janedoe@example.com on account mybestvalue
+14092023-07:55 INFO User josmith@test.com attempted unauthorized access
+10062023-00:28 INFO Disk space running low on josmith@test.com
+16032023-23:57 INFO Error writing to file billbrown@test.com in directory mybestvalue
+18072023-17:40 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 32 FileHandler.saveData(line:66) Main.outputDate(line:56)
+21052023-09:54 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 173 Helper.parseDateFromString(line:38) Helper.parseDateFromString(line:51)
+05102023-05:07 WARN Error writing to file admin@company.com in directory jamesome
+31102023-04:35 INFO Disk space running low on admin@company.com
+07032023-23:52 ERROR Memory allocation error at josmith@test.com adminaccount(line:399)
+26042023-11:38 ERROR Error writing to file billbrown@test.com in directory adminaccount
+30092023-20:13 WARN Memory allocation error at billbrown@test.com highpriority(line:479)
+21032023-21:29 WARN Cannot find user billbrown@test.com on account jamesome
+02042023-12:02 INFO Network packet loss detected between admin@company.com and jamesome
+17112023-06:38 INFO Exception thrown: Unknown dateformat 'DDDDD' at line: 149 FileHandler.saveData(line:23) FileHandler.saveData(line:28)
+01012023-05:44 INFO Cannot find user janedoe@example.com on account highpriority
+02052023-22:33 INFO Disk space running low on billbrown@test.com
+02112023-22:55 INFO Error writing to file josmith@test.com in directory highpriority
+10122023-13:53 INFO Disk space running low on admin@company.com
+30032023-13:16 WARN Cannot find user billbrown@test.com on account mybestvalue
+29112023-16:38 INFO File admin@company.com not found in directory mybestvalue
+29122023-06:02 ERROR Error writing to file janedoe@example.com in directory highpriority
+02092023-15:36 INFO Disk space running low on admin@company.com
+04052023-04:58 INFO Exception thrown: Unknown dateformat 'DDDDD' at line: 361 Helper.parseDateFromString(line:28) FileHandler.saveData(line:13)
+10012023-18:43 ERROR Memory allocation error at admin@company.com jamesome(line:316)
+28052023-15:19 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 45 Main.outputDate(line:58) Main.outputDate(line:45)
+25082023-23:55 INFO Timeout occurred while waiting for response from billbrown@test.com
+11052023-20:45 WARN Memory allocation error at billbrown@test.com adminaccount(line:382)
+11032023-16:12 INFO User josmith@test.com attempted unauthorized access
+05022023-19:54 ERROR Memory allocation error at josmith@test.com jamesome(line:28)
+14072023-11:03 INFO Exception thrown: Unknown dateformat 'DDDDD' at line: 112 Helper.parseDateFromString(line:68) Main.outputDate(line:82)
+23022023-03:38 WARN File admin@company.com not found in directory highpriority
+10012023-19:30 ERROR Failed to connect to database janedoe@example.com at mybestvalue
+26062023-18:55 INFO Network packet loss detected between billbrown@test.com and adminaccount
+18112023-15:47 WARN File josmith@test.com not found in directory highpriority
+15062023-15:49 INFO File admin@company.com not found in directory adminaccount
+13042023-03:23 ERROR Failed to connect to database admin@company.com at adminaccount
+03062023-12:28 ERROR Cannot find user janedoe@example.com on account adminaccount
+25112023-07:14 ERROR Timeout occurred while waiting for response from josmith@test.com
+23072023-15:43 WARN Disk space running low on admin@company.com
+16122023-17:27 ERROR Error writing to file admin@company.com in directory highpriority
+20012023-16:37 INFO Cannot find user janedoe@example.com on account adminaccount
+07082023-22:45 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 495 Main.outputDate(line:6) Main.outputDate(line:35)
+16052023-14:35 WARN Memory allocation error at billbrown@test.com adminaccount(line:352)
+14042023-05:31 ERROR Memory allocation error at janedoe@example.com highpriority(line:196)
+07052023-12:12 ERROR Cannot find user janedoe@example.com on account mybestvalue
+28022023-22:46 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 43 Main.outputDate(line:49) FileHandler.saveData(line:3)
+14052023-23:47 WARN Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 352 Main.outputDate(line:44) Helper.parseDateFromString(line:11)
+12082023-13:54 INFO Timeout occurred while waiting for response from josmith@test.com
+09012023-13:36 ERROR Memory allocation error at janedoe@example.com adminaccount(line:8)
+19092023-22:44 WARN Network packet loss detected between billbrown@test.com and adminaccount
+21092023-04:48 ERROR Exception thrown: Unknown dateformat 'MM/YYYY' at line: 47 Main.outputDate(line:19) Helper.parseDateFromString(line:87)
+22052023-22:21 INFO Error writing to file josmith@test.com in directory highpriority
+19062023-16:25 ERROR Timeout occurred while waiting for response from admin@company.com
+23042023-13:25 INFO Memory allocation error at billbrown@test.com jamesome(line:144)
+20072023-10:41 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 430 FileHandler.saveData(line:9) Helper.parseDateFromString(line:25)
+04062023-12:34 INFO Failed to connect to database admin@company.com at adminaccount
+07112023-03:17 ERROR Network packet loss detected between admin@company.com and adminaccount
+04042023-06:28 INFO Failed to connect to database billbrown@test.com at highpriority
+08042023-09:05 INFO Failed to connect to database billbrown@test.com at adminaccount
+26072023-08:13 WARN Network packet loss detected between janedoe@example.com and highpriority
+20042023-09:12 WARN User billbrown@test.com attempted unauthorized access
+02052023-03:03 ERROR Network packet loss detected between billbrown@test.com and mybestvalue
+20022023-06:14 INFO Timeout occurred while waiting for response from billbrown@test.com
+26012023-12:33 INFO Disk space running low on janedoe@example.com
+06022023-19:44 INFO Failed to connect to database billbrown@test.com at adminaccount
+21072023-07:15 WARN Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 383 Main.outputDate(line:84) Helper.parseDateFromString(line:40)
+25122023-11:05 WARN Memory allocation error at admin@company.com adminaccount(line:257)
+30032023-06:32 INFO Cannot find user admin@company.com on account jamesome
+15022023-05:24 INFO File billbrown@test.com not found in directory adminaccount
+05122023-17:26 WARN Disk space running low on janedoe@example.com
+10042023-00:37 INFO Cannot find user josmith@test.com on account mybestvalue
+12122023-20:37 ERROR File janedoe@example.com not found in directory jamesome
+07102023-22:00 INFO Timeout occurred while waiting for response from josmith@test.com
+02122023-14:59 WARN Cannot find user janedoe@example.com on account highpriority
+17122023-22:55 WARN Timeout occurred while waiting for response from josmith@test.com
+13062023-10:25 ERROR Network packet loss detected between janedoe@example.com and mybestvalue
+22052023-09:34 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 16 Helper.parseDateFromString(line:49) Main.outputDate(line:94)
+21012023-11:33 WARN Timeout occurred while waiting for response from josmith@test.com
+08012023-05:52 WARN File admin@company.com not found in directory highpriority
+11112023-14:32 ERROR File billbrown@test.com not found in directory adminaccount
+02122023-03:47 ERROR Network packet loss detected between josmith@test.com and jamesome
+31032023-14:42 ERROR Disk space running low on billbrown@test.com
+04072023-20:02 ERROR User billbrown@test.com attempted unauthorized access
+12042023-03:31 ERROR Error writing to file billbrown@test.com in directory adminaccount
+02052023-07:45 ERROR Cannot find user admin@company.com on account highpriority
+16012023-01:42 ERROR Disk space running low on josmith@test.com
+17032023-20:36 WARN Memory allocation error at admin@company.com jamesome(line:337)
+17052023-00:59 ERROR User billbrown@test.com attempted unauthorized access
+18052023-04:48 ERROR Memory allocation error at admin@company.com highpriority(line:272)
+11042023-19:55 INFO Error writing to file josmith@test.com in directory mybestvalue
+24052023-20:24 ERROR User janedoe@example.com attempted unauthorized access
+20112023-09:37 INFO Network packet loss detected between billbrown@test.com and adminaccount
+20102023-19:17 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 142 Main.outputDate(line:95) Helper.parseDateFromString(line:32)
+14062023-17:09 ERROR File josmith@test.com not found in directory adminaccount
+12062023-19:13 INFO Memory allocation error at admin@company.com adminaccount(line:389)
+02012023-11:24 INFO Network packet loss detected between josmith@test.com and highpriority
+21042023-15:43 INFO Network packet loss detected between admin@company.com and adminaccount
+13072023-01:50 WARN Timeout occurred while waiting for response from admin@company.com
+01012023-16:53 ERROR Timeout occurred while waiting for response from billbrown@test.com
+31012023-14:38 INFO Memory allocation error at billbrown@test.com highpriority(line:334)
+28022023-08:25 INFO Failed to connect to database josmith@test.com at adminaccount
+30122023-02:08 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 377 Main.outputDate(line:84) Helper.parseDateFromString(line:32)
+10122023-09:41 WARN Disk space running low on admin@company.com
+04052023-20:26 INFO Timeout occurred while waiting for response from admin@company.com
+04092023-22:35 ERROR Timeout occurred while waiting for response from billbrown@test.com
+03112023-02:11 INFO Memory allocation error at josmith@test.com jamesome(line:334)
+19022023-03:56 INFO Exception thrown: Unknown dateformat 'DDDDD' at line: 12 Main.outputDate(line:86) Main.outputDate(line:10)
+29032023-04:33 ERROR Memory allocation error at admin@company.com jamesome(line:319)
+20042023-11:51 ERROR Disk space running low on janedoe@example.com
+26052023-18:20 WARN Failed to connect to database billbrown@test.com at adminaccount
+29012023-15:19 ERROR Failed to connect to database admin@company.com at highpriority
+10062023-14:30 ERROR Memory allocation error at josmith@test.com highpriority(line:322)
+25062023-21:37 INFO Failed to connect to database janedoe@example.com at highpriority
+03032023-10:53 INFO Disk space running low on josmith@test.com
+19022023-13:23 INFO Failed to connect to database admin@company.com at adminaccount
+30062023-07:46 ERROR File janedoe@example.com not found in directory adminaccount
+25022023-19:28 WARN User janedoe@example.com attempted unauthorized access
+03032023-19:46 INFO Error writing to file admin@company.com in directory highpriority
+20082023-20:21 INFO Network packet loss detected between admin@company.com and mybestvalue
+29052023-00:27 INFO Error writing to file billbrown@test.com in directory jamesome
+08092023-20:24 INFO Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 105 Helper.parseDateFromString(line:66) Main.outputDate(line:10)
+19092023-07:21 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 143 Main.outputDate(line:59) Main.outputDate(line:20)
+18022023-07:20 INFO Network packet loss detected between admin@company.com and mybestvalue
+11072023-14:15 WARN Exception thrown: Unknown dateformat 'DDDDD' at line: 264 Main.outputDate(line:69) Main.outputDate(line:32)
+13022023-23:15 ERROR Disk space running low on josmith@test.com
+24022023-06:57 INFO Memory allocation error at admin@company.com adminaccount(line:450)
+27072023-07:51 ERROR Timeout occurred while waiting for response from billbrown@test.com
+13082023-04:59 ERROR User admin@company.com attempted unauthorized access
+12122023-04:12 INFO File admin@company.com not found in directory mybestvalue
+29012023-09:22 INFO Failed to connect to database admin@company.com at adminaccount
+07042023-14:14 WARN Exception thrown: Unknown dateformat 'MM/YYYY' at line: 158 Helper.parseDateFromString(line:83) FileHandler.saveData(line:43)
+18042023-17:10 WARN Network packet loss detected between admin@company.com and jamesome
+09082023-14:34 WARN Disk space running low on josmith@test.com
+10082023-08:50 WARN File billbrown@test.com not found in directory highpriority
+06012023-09:07 WARN Disk space running low on billbrown@test.com
+04092023-19:58 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 25 FileHandler.saveData(line:43) Helper.parseDateFromString(line:15)
+03072023-22:49 INFO File janedoe@example.com not found in directory highpriority
+06082023-21:49 INFO Disk space running low on janedoe@example.com
+17042023-10:12 WARN File billbrown@test.com not found in directory highpriority
+11062023-14:13 INFO Failed to connect to database admin@company.com at mybestvalue
+26042023-06:21 WARN Error writing to file josmith@test.com in directory jamesome
+07072023-12:08 WARN Disk space running low on janedoe@example.com
+15042023-07:35 WARN Memory allocation error at josmith@test.com mybestvalue(line:7)
+27062023-21:31 ERROR Memory allocation error at billbrown@test.com jamesome(line:350)
+22102023-03:10 WARN Disk space running low on janedoe@example.com
+03042023-10:30 WARN Memory allocation error at billbrown@test.com adminaccount(line:287)
+06102023-15:32 INFO File josmith@test.com not found in directory jamesome
+04092023-03:52 ERROR Network packet loss detected between janedoe@example.com and mybestvalue
+22112023-21:43 WARN File admin@company.com not found in directory mybestvalue
+16052023-21:33 INFO Memory allocation error at billbrown@test.com mybestvalue(line:129)
+04052023-22:49 INFO Disk space running low on admin@company.com
+20092023-10:52 WARN User janedoe@example.com attempted unauthorized access
+04032023-15:51 ERROR Timeout occurred while waiting for response from billbrown@test.com
+04032023-17:34 WARN User josmith@test.com attempted unauthorized access
+25012023-08:28 ERROR File billbrown@test.com not found in directory mybestvalue
+27082023-00:30 ERROR Exception thrown: Unknown dateformat 'YYYY-MM-DD' at line: 186 Main.outputDate(line:60) FileHandler.saveData(line:59)
+19092023-10:07 INFO Timeout occurred while waiting for response from billbrown@test.com
+13012023-10:38 INFO Timeout occurred while waiting for response from admin@company.com
+08022023-09:25 WARN Error writing to file admin@company.com in directory jamesome
+18032023-11:04 INFO Memory allocation error at janedoe@example.com jamesome(line:118)
+20052023-11:16 INFO Error writing to file admin@company.com in directory mybestvalue
+09012023-20:05 INFO Exception thrown: Unknown dateformat 'MM/YYYY' at line: 345 Helper.parseDateFromString(line:68) FileHandler.saveData(line:72)
+22022023-08:46 ERROR User josmith@test.com attempted unauthorized access
+19092023-03:01 WARN Network packet loss detected between admin@company.com and highpriority
+09082023-22:06 INFO Disk space running low on janedoe@example.com
+07092023-09:01 ERROR Cannot find user billbrown@test.com on account jamesome
+20022023-11:24 INFO Memory allocation error at janedoe@example.com mybestvalue(line:342)
+18022023-09:14 ERROR Network packet loss detected between janedoe@example.com and adminaccount
+11072023-10:04 ERROR Timeout occurred while waiting for response from janedoe@example.com
+08022023-23:08 INFO Exception thrown: Unknown dateformat 'YDGI' at line: 27 Helper.parseDateFromString(line:54) Main.outputDate(line:74)
+18022023-17:12 INFO Failed to connect to database admin@company.com at mybestvalue
+08052023-00:28 WARN Disk space running low on billbrown@test.com
+05062023-03:10 ERROR Network packet loss detected between janedoe@example.com and mybestvalue
+20052023-19:24 INFO File billbrown@test.com not found in directory highpriority
+16032023-16:25 INFO Timeout occurred while waiting for response from janedoe@example.com
+16122023-00:16 ERROR Memory allocation error at admin@company.com mybestvalue(line:93)
+03042023-07:09 ERROR Error writing to file billbrown@test.com in directory highpriority
+27122023-09:06 INFO Network packet loss detected between josmith@test.com and mybestvalue
+31052023-09:12 INFO File janedoe@example.com not found in directory adminaccount
+07062023-06:03 INFO Memory allocation error at josmith@test.com highpriority(line:410)
+15032023-18:14 WARN Failed to connect to database admin@company.com at adminaccount
+05082023-20:17 INFO File janedoe@example.com not found in directory adminaccount
+13082023-04:14 WARN Cannot find user josmith@test.com on account mybestvalue
+19092023-07:47 ERROR Memory allocation error at billbrown@test.com jamesome(line:342)
+15072023-09:57 WARN File janedoe@example.com not found in directory mybestvalue
+08052023-07:44 ERROR File billbrown@test.com not found in directory jamesome
+29082023-00:52 ERROR Error writing to file janedoe@example.com in directory highpriority
+14082023-03:36 ERROR Disk space running low on janedoe@example.com
